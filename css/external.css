@@ -1,0 +1,16 @@
+#brand-name{
+	font-size: 3rem;
+}
+#header-navbar{
+	padding: 0;
+}
+#menu{
+	margin: 3% 10%;
+}
+#chicken{
+	margin-top: 5%;
+	padding: :3% 5%;
+	background-color: lightgrey;
+	font-size: 1.5rem;
+	line-height: 1.5;
+}
